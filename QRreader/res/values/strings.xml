@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2008 ZXing authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<resources>
+  <string name="about_menu">About</string>
+  <string name="about_message">Utility created by M.Kacer. This application requires BarCode scanner from ZXing, which can be installed from Android Market.</string>
+  <string name="app_name">QR reader</string>
+  <string name="ok_button">OK</string>
+  <string name="scan_qr_code">Scan and decode QR Code</string>
+  <string name="result_failed">No barcode found</string>
+  <string name="result_failed_why">"The user gave up and pressed Back"</string>
+  <string name="result_succeeded">Found barcode</string>
+</resources>
